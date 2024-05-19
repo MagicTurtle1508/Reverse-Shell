@@ -1,0 +1,11 @@
+socket
+keyboard
+pynput
+zlib
+mss
+pygame
+pywin32
+win32gui
+pyautogui
+subprocess
+pyinstaller
